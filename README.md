@@ -1,10 +1,11 @@
-<!--ABOUT THIS PROJEC-->
+**ABOUT THIS PROJECt
 
 **THE NAME OF THE PROJECT IS CALL POKEMONINFO APP
+
 The aim of this Project is build a UI component that display the pictures of all the Pokemon in a carousel and below the carousel there will be a modal that displays the information on each of the pokemon.
 
 
-<!--UI FEATURES TO SEE ON THIS PROJECT-->
+** UI FEATURES TO SEE ON THIS PROJECT
 
 1. An animated navbar
 2. carousel of pictures
